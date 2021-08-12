@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Strengthen your skiils of React Js useState Hook
+## Strengthen your skills of React Js useState Hook
 
 ## Available Scripts
 
